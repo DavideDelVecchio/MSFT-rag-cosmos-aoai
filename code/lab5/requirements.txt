@@ -4,7 +4,6 @@ ipykernel
 matplotlib
 plotly
 scikit-learn
-pymongo==3.11.3
 dnspython
 openai==1.6.1
 azure-cosmos
